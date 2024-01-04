@@ -1,0 +1,326 @@
+.body{
+    /* background-color: #FBFBFB 0% 0% no-repeat padding-box; */
+    background: #FBFBFB 0% 0% no-repeat padding-box;
+    width: auto;;
+    width: auto;
+}
+ 
+       /* Start of Heading  */
+
+.heading-container{
+    background-color: brown; 
+    height: auto;
+    position: absolute;
+    top: 0px;
+    left: 0px;
+    right:0px;
+}
+
+
+.inline-container{
+    /* width: 50 vw; */
+    height: auto;
+    display: inline-block;
+    padding-left: 10px;
+    width: 1322px;
+}
+
+.span-logo-container{
+    /* display:inline-block; */
+    float: left;
+    text-align:left;
+    /* margin-right: 500px; */
+    position: relative;
+    top: 2px;
+    padding-left: 120px;
+    padding-top: 3px;
+    height: auto; 
+    width: auto;
+    color:#EB2929;
+}
+.span-logo{
+    background-color: whitesmoke;
+    border-radius: 50%; 
+    width:auto;
+    text-align: center;
+    font-size: 22px;
+    /* display: inline-flexbox; */
+}
+#id-e{
+    font-size: 23px;
+}
+.span-logo-right{
+    text-align: center;
+    /* margin-left: 300px; */
+    color: white;
+    width:auto;
+    height: auto;
+    position: relative;
+    left: 951px;
+    /* padding: 10px; */
+    /* background-color: blueviolet; */
+    display: inline-flex;
+}
+
+.p3-inline{
+    height:auto;
+    padding-top:20px;
+    margin-right: 10px;
+    width:auto;
+    font-size: 10px;
+}
+
+#p3-account{
+    border: 1px solid #FFFFFF;
+    /* border-radius: 3px;  */
+    opacity: 1;
+    padding: 5px;
+    border-radius: 12px;
+}
+
+#p3-login{
+    /* border: 1px solid #FFFFFF; */
+    /* border-radius: 3px;  */
+    opacity: 1;
+    padding: 5px;  
+}
+                  /* End of Heading */
+.mini-container{
+ /* font-size: 25px; */
+ position: relative;
+ top: -20px;
+ text-align: left;
+ font: normal normal bold 30px/40px Poppins;
+ letter-spacing: 0px;
+ color: #192F60;
+ opacity: 1;
+}
+
+
+.total-content{ 
+    position: absolute;
+    top:70px;
+    padding-right:50px;
+    padding-left:100px;
+    height: auto;
+}
+
+        /* nav */
+.nav-content{
+ width: auto;
+ height: auto;
+ display: inline-block;
+ position: relative;
+ top: -40px;    
+}
+
+.left-nav{
+    width: 450px;
+    margin-right:40px ;
+    float: left;
+    border-radius: 12px;
+    background: #FFFFFF 0% 0% no-repeat padding-box;
+    box-shadow: 0px 3px 6px #00000029; 
+    padding: 20px;
+}
+
+#left-nav-heading{
+    text-align: left;
+    font: normal normal 600 20px/27px Poppins;
+    letter-spacing: 0px;
+    color: #192F60;
+    opacity: 1;
+    position: relative;
+    top: -23px;
+}
+
+.color-input{
+    position: relative;
+    top: -40px;
+    border: 1px solid #8C96AB;
+    border-radius: 3px;
+    opacity: 1;
+    width: 223px;
+    height: 24px;
+}
+
+#para3{
+    position: relative;
+    top:-38px;
+    text-align: left;
+    font: normal normal normal 19px/10px Poppins;
+    letter-spacing: 0px;
+    color: #192F60;
+    opacity: 1;
+}
+#para4{
+    position: relative;
+    top:-43px;
+    text-align: left;
+    font: normal normal normal 19px/21px Poppins;
+    letter-spacing: 0px;
+    color: #192F60;
+    opacity: 1;
+}
+.formposition{
+    position: relative;
+    top:-45px;
+    text-align: left;
+    font: normal normal normal 14px/14px Poppins;
+    letter-spacing: 0px;
+    color: #8C96AB;
+    opacity: 1;
+}
+
+
+   /* start of right nav  */
+.right-nav{
+    width: 600px;
+    margin-left: 20px;
+    float: right; 
+    background: #FFFFFF 0% 0% no-repeat padding-box;
+    box-shadow: 0px 3px 6px #00000029; 
+    /* background-color: rgb(129, 135, 141);  */
+}
+
+.top-right-nav{
+    display: inline-block;
+    /* background-color:rgb(60, 151, 167); */
+    width:600px;
+    height: auto;
+    margin-bottom: 12px;
+    /* background-color: rgb(184, 45, 91); */
+    background: #FFFFFF 0% 0% no-repeat padding-box;
+    box-shadow: 0px 3px 6px #00000029;    
+}
+
+.down-right-nav{
+    display:inline-block ;
+        margin-top: 10px;
+    /* background-color:rgb(214, 12, 79); */
+    width: 600px;
+    height: auto;
+    background: #FFFFFF 0% 0% no-repeat padding-box;
+    box-shadow: 0px 3px 6px #00000029; 
+}
+.img-contain{
+  width: auto;
+  height: 85px;
+  display: inline-block;
+  /* background-color: blue; */
+}
+
+#img-size{
+    border-radius: 15px;
+    width:auto;
+}
+
+.img-inline{
+    position: relative;
+    top: -56px;
+    display: inline-flex;
+    width:auto;
+}
+
+.let-inline{
+    display: inline-block;
+    width: auto;
+    height: 79px;
+    margin-left: 10px;
+    /* background-color: aqua; */
+}
+
+.img-div{
+    display: inline-block;
+    position: relative;
+    top:0px;
+    /* background-color: red; */
+    height: 128px;
+    padding: 10px;
+}
+
+.img-div-top{   
+    display: inline-flexbox;
+    height: 92px;   
+    /* background-color: green; */
+    width:auto;
+    /* background-color: #EB2929; */        
+}
+
+.img-div-down{
+    position: relative;
+    top: 2px;
+    display: block;
+    height: 39px;
+    /* background-color: rgb(66, 0, 128); */
+    width:auto;
+}
+
+#des1{
+    position: relative;
+    top: -27px;
+    text-align: left;
+    font: normal normal 600 20px/36px Poppins;
+    letter-spacing: 0px;
+    color: #192F60;
+    opacity: 1;
+}
+#des2{
+    position: relative;
+    top:-47px;
+    text-align: left;
+    font: normal normal medium 6px/20px Poppins;
+    letter-spacing: 0px;
+    color: #192F60;
+    opacity: 1;
+}
+#des3{
+    position: relative;
+    top:-61px;
+    font: normal normal normal 16px/30px Poppins;
+    letter-spacing: 0px;
+    color: #636F88;
+    opacity: 1;
+}
+#des4{  
+    display: block;
+    position: relative;
+    top:0px;
+    width:auto;
+    height: 20px;   
+    font: normal normal normal 16px/30px Poppins;
+    letter-spacing: 0px;
+    color: #192F60; 
+    /* background-color: green; */
+}
+#des5{
+    display: block;
+    position:relative;
+    top:0px;
+    width: auto;
+    height: 23px;   
+    font: normal normal normal 16px/30px Poppins;
+    letter-spacing: 0px;
+    color: #192F60;
+    /* background-color: green; */
+}
+
+#para1{
+    position: relative;
+    top: -22px;
+    display: inline-block; 
+    width: 100px;
+    /* background-color: red;  */
+    height: 21px;
+}
+#para2{
+    position: relative;
+    top: -22px;
+    display: inline-block;  
+    width: 100px; 
+    text-align: center; 
+    /* background-color: red; */
+    height: 21px;
+}
+
+        /* End of Nav Bar */
